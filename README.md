@@ -4,7 +4,7 @@
  
  Always learning, always building, always shipping 🚀
 
-📩 Reach me: yash20singhal@gmail.com
+📩 Reach me: yash92singhal@gmail.com
 
 🤝 Open to: Collaboration on full-stack MERN projects
 
