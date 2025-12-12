@@ -6,15 +6,22 @@
   <tr>
     <td>
       <p>Always learning, always building, always shipping 🚀</p>
-      <p>📩 Reach me: yash92singhal@gmail.com</p>
-      <p>🤝 Open to: Collaboration on full-stack MERN projects</p>
-     <img src="https://komarev.com/ghpvc/?username=YashSinghal02&label=Profile%20views&color=33c74c&style=flat" alt="profile-radme-generator" />
+      <p>📩 Reach me: <a href="mailto:yash92singhal@gmail.com">yash92singhal@gmail.com</a></p>
+      <p>🤝 Open to: Collaboration on full-stack MERN projects</p> 
+      <!-- Profile Views Badge -->
+      <img src="https://komarev.com/ghpvc/?username=YashSinghal02&label=Profile%20views&color=33c74c&style=flat" alt="profile-radme-generator" />     
+      <br><br>
+      <!-- Portfolio Badge -->
+      <a href="https://portfolio-yashsinghal.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-💻-purple?style=flat-square" alt="Portfolio" />
+      </a>
     </td>
     <td>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480">
     </td>
   </tr>
 </table>
+
 
 
 
@@ -32,7 +39,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yashsinghal21/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashsinghal-fullstackdeveloper)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yash20singhal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat-square&logo=👤)](https://portfolio-yashsinghal.vercel.app/)
 
 
 
