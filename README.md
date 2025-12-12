@@ -2,11 +2,21 @@
 
  ##  𝘼 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝘼𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖
  
- Always learning, always building, always shipping 🚀
+<table>
+  <tr>
+    <td>
+      <p>Always learning, always building, always shipping 🚀</p>
+      <p>📩 Reach me: yash92singhal@gmail.com</p>
+      <p>🤝 Open to: Collaboration on full-stack MERN projects</p>
+     <img src="https://komarev.com/ghpvc/?username=YashSinghal02&label=Profile%20views&color=33c74c&style=flat" alt="profile-radme-generator" />
+    </td>
+    <td>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+    </td>
+  </tr>
+</table>
 
-📩 Reach me: yash92singhal@gmail.com
 
-🤝 Open to: Collaboration on full-stack MERN projects
 
  ## 🔥 About Me:
 
