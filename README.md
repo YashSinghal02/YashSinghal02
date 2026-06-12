@@ -67,9 +67,28 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YashSinghal02&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YashSinghal02&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashSinghal02&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+<a href="https://github.com/YashSinghal02" target="_blank">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSinghal02&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/YashSinghal02" target="_blank">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashSinghal02&theme=github_dark" alt="GitHub Profile Summary" />
+</a>
+</p>
+
+<p align="left">
+<a href="https://github.com/YashSinghal02" target="_blank">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YashSinghal02&theme=github_dark" width="320" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/YashSinghal02?tab=repositories" target="_blank">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashSinghal02&theme=github_dark" width="320" alt="Top Languages" />
+</a>
+</p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
