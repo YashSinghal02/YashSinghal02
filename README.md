@@ -1,6 +1,8 @@
 # 💫 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗬𝗮𝘀𝗵 𝗦𝗶𝗻𝗴𝗵𝗮𝗹 👋
 
- ##  𝘼 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 | 𝘼𝙨𝙥𝙞𝙧𝙞𝙣𝙜 𝙁𝙪𝙡𝙡-𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙛𝙧𝙤𝙢 𝙄𝙣𝙙𝙞𝙖
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1500&color=39D353&center=false&vCenter=true&width=950&lines=A+passionate+Frontend+Developer+%7C+Aspiring+Full-Stack+Developer+from+India" alt="Typing SVG" />
+</p>
  
 <table>
   <tr>
