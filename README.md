@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>
-      <p>Always learning, always building, always shipping 🚀</p>
+      <p>Always learning, always building, always shipping🚀</p>
       <p>📩 Reach me: <a href="mailto:yash92singhal@gmail.com">yash92singhal@gmail.com</a></p>
       <p>🤝 Open to: Collaboration on full-stack MERN projects</p> 
       <!-- Profile Views Badge -->
