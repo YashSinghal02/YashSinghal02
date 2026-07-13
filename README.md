@@ -27,7 +27,7 @@
 
 
 
- ## 🔥 About Me:
+ ## 👨‍💻 About Me:
 
 - 🌱 Currently learning: Backend development (Node.js, Express, MongoDB)
 - 👯 Looking to collaborate on: Any full-stack MERN project, APIs, dashboards, admin panels
