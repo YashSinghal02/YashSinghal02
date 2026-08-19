@@ -71,7 +71,10 @@
 # 📊 GitHub Stats:
 <p align="left">
 <a href="https://github.com/YashSinghal02" target="_blank">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSinghal02&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.vercel.app/?user=YashSinghal02&theme=github-dark&hide_border=false"
+    alt="GitHub Streak"
+  />
 </a>
 </p>
 
