@@ -1,7 +1,7 @@
 # 💫 𝗛𝗲𝘆 𝘁𝗵𝗲𝗿𝗲! 𝗜'𝗺 𝗬𝗮𝘀𝗵 𝗦𝗶𝗻𝗴𝗵𝗮𝗹 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1500&color=39D353&center=false&vCenter=true&width=950&lines=A+passionate+Frontend+Developer+%7C+Aspiring+Full-Stack+Developer+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&pause=1500&color=39D353&center=false&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+Building+Modern+Web+Applications+with+MERN" alt="Typing SVG" />
 </p>
  
 <table>
@@ -29,12 +29,13 @@
 
  ## 👨‍💻 About Me:
 
-- 🌱 Currently learning: Backend development (Node.js, Express, MongoDB)
-- 👯 Looking to collaborate on: Any full-stack MERN project, APIs, dashboards, admin panels
-- 🤔 Looking for help with: Advanced backend architecture & authentication systems
-- 💬 Ask me about: JavaScript, React, UI/UX, MERN stack basics, project structure
-- 😄 Pronouns: Yash (or whichever suits 😄)
-- ⚡ Fun fact: I love building beautiful UI, and beautiful UI loves me back ✨
+* 🌱 Currently learning: Advanced Full-Stack Development and building real-world web applications
+* 👯 Looking to collaborate on: Full-stack MERN projects, APIs, dashboards, admin panels, and real-world web applications
+* 🤔 Looking for help with: Advanced system design, backend architecture and scalability
+* 💬 Ask me about: JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, Redux Toolkit, and MERN stack
+* 😄 Pronouns: Yash
+* ⚡ Fun fact: I love turning ideas into full-stack applications from a clean UI to a working backend ✨
+
 
 
 ## 🌐 Socials:
@@ -45,26 +46,52 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
 
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+### Frontend
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23443330.svg?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge\&logo=swagger\&logoColor=black)
+
+### Authentication & Services
+
+![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=for-the-badge\&logo=clerk\&logoColor=white)
+![Stream](https://img.shields.io/badge/Stream-%230055FF.svg?style=for-the-badge\&logo=stream\&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-%235A67D8.svg?style=for-the-badge\&logo=inngest\&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge\&logo=cloudinary\&logoColor=white)
+
+### API & Development Tools
+
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge\&logo=postman\&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-%237A57D1.svg?style=for-the-badge\&logo=thunderclient\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+
+### Languages & Other
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge\&logo=adobe%20photoshop\&logoColor=white)
+
 
 
 
